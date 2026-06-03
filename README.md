@@ -54,10 +54,10 @@ vendor-locked router limitations.
 
 ## Screenshots
 ### Pi-hole Dashboard
-*[Add dashboard screenshot here]*
+![Pi-hole Dashboard](Pi-hole%20Screenshot.png)
 
-### Blocking Confirmed
-*[Add dig doubleclick.net screenshot showing 0.0.0.0]*
+### Blocking Confirmed — doubleclick.net returns 0.0.0.0
+![Blocking Confirmed](blocking-confirmed.png)
 
 ## What I Learned
 - How DNS resolution works at a system level
